@@ -55,6 +55,11 @@ The Car Sales Dashboard includes:
 - **Top Models**: A bar chart showcasing the best-selling car models.
 - **Sales by Region**: A geographical map visualizing sales distribution across regions.
 - **Performance Metrics**: KPIs that highlight key business metrics.
+
+![Car Sales Dashboard](https://github.com/Sanket2001632/CarSalesDashboard-with-DataAnalysis/blob/main/dash1.png)
+
+![Car Sales Dashboard](https://github.com/Sanket2001632/CarSalesDashboard-with-DataAnalysis/blob/main/dash2.png)
+
  
 ## Usage Instructions
 
